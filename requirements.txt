@@ -1,0 +1,11 @@
+aiohttp
+asyncio
+discord.py
+pyyaml
+torch>=1.5.1+cpu
+torchvision>=0.5.0+cpu
+transformers
+datasets
+tqdm
+youtube-search-python
+google-api-python-client
