@@ -1,4 +1,4 @@
-# Peri chan bot
+# Discord chatbot
 
 All modules are sourced from `cog/` except for the chatbot functionality which is defined inside `on_message` event in `bot.py`
 
